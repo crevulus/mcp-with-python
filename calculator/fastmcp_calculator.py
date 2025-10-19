@@ -53,4 +53,5 @@ def divide(a: float, b: float) -> float:
     return a / b
 
 if __name__ == "__main__":
+    # Can set the transport type here, e.g. http
     mcp.run() 
